@@ -4,6 +4,6 @@ python packages not about programing
 
 
 
-* [moviepy](https://github.com/Zulko/moviepy/) - A module for script-based movie editing with many formats, including animated GIFs.
+* [moviepy](https://github.com/Zulko/moviepy/) - For video editing, even GIFs.
 
 * [PyPDF4](https://github.com/claird/PyPDF4) - For manipulate pdf files, croping pages, spliting, reordering, etc.
